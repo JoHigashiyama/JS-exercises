@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+.flex {
+    display: flex;
+}
+
+.item {
+    margin: auto;
+}
+
+.btn {
+    width: 30%;
+    margin: auto;
+}
+
+button {
+    margin: auto;
+}
+
+.item + .item {
+    margin-left: 30px;
+}
+
+h1, h2 , h3, #result {
+    text-align: center;
+}
